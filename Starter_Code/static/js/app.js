@@ -46,7 +46,7 @@ function Plots(id) {
             marker: {
                 size: filtered.sample_values,
                 color: filtered.otu_ids,
-                colorscale: 'Portland'
+                colorscale: 'Earth'
             },
             text: filtered.otu_labels,
         };
@@ -60,11 +60,13 @@ function Plots(id) {
     })
 };
 
+
 // Build new upon ID change:
 function optionChanged(id) {
     Plots(id);
     panelInfo(id);
 };
+
 
 // Test 'Subject Dropdown' and initial function:
 function init() {
