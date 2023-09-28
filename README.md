@@ -1,5 +1,5 @@
 # belly-button-challenge
-
+![Alt text](SampleData_README/BellyButtonWelcome.png)
 Challenge 14 - Building an interactive dashboard to explore a catalog of microbes colonizing in human navels from a provided dataset.
 
 [](https://hrobinl.github.io/belly-button-challenge/)](https://hrobinl.github.io/belly-button-challenge/)
@@ -27,7 +27,8 @@ Challenge 14 - Building an interactive dashboard to explore a catalog of microbe
 7. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file.
 
 Findings:
-
+Sample data from test subject no.958 shown below:
+![Alt text](SampleData_README/No958.png)
 
 ## References
 Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site.
